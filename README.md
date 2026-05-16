@@ -25,10 +25,19 @@
 ```bash
 pip install requests huggingface-hub
 ```
-## 📜 项目声明
+## 📜 项目声明 | Project Statement
 
-| 项目 | 信息 |
-|------|------|
-| 项目名称 | Hugging Face Downloader |
-| 项目作者 | Hailong Wang, Wuzheng Tan |
-| 作者单位 | 暨南大学网络空间安全学院（College of Cyber Security, Jinan University） |
+---
+
+| | |
+|:---|:---|
+| **项目名称 / Project Name** | **Hugging Face Downloader** |
+| **项目作者 / Authors** | Hailong Wang, Wuzheng Tan |
+| **作者单位 / Affiliation** | 暨南大学网络空间安全学院<br>College of Cyber Security, Jinan University |
+
+---
+
+### 声明 Statement
+
+本工具由暨南大学网络空间安全学院开发，仅供学习交流使用。  
+*This tool is developed by the College of Cyber Security, Jinan University for learning and communication purposes only.*
